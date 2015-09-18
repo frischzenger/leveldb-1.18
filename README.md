@@ -1,4 +1,7 @@
 #Windows Installation of LEVELDB1.18
+with visual c++ solution files in the folder leveldb
+
+
 **LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.**
 
 Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
